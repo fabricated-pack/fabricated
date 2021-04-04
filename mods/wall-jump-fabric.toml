@@ -1,0 +1,14 @@
+name = "Wall-Jump! [FABRIC]"
+filename = "walljump-fabric-1.3.3+1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2993/705/walljump-fabric-1.3.3+1.16.1.jar"
+hash-format = "murmur2"
+hash = "3458961983"
+
+[update]
+[update.curseforge]
+file-id = 2993705
+project-id = 363027
+release-channel = "beta"

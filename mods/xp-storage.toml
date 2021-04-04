@@ -1,0 +1,14 @@
+name = "XP Storage"
+filename = "xp_storage-1.4+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3180/242/xp_storage-1.4+1.16.5.jar"
+hash-format = "murmur2"
+hash = "681211125"
+
+[update]
+[update.curseforge]
+file-id = 3180242
+project-id = 403434
+release-channel = "beta"

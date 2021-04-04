@@ -1,0 +1,14 @@
+name = "Astromine: Foundations"
+filename = "astromine-foundations-1.11.4+fabric-1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3080/153/astromine-foundations-1.11.4+fabric-1.16.3.jar"
+hash-format = "murmur2"
+hash = "3896701959"
+
+[update]
+[update.curseforge]
+file-id = 3080153
+project-id = 404374
+release-channel = "beta"

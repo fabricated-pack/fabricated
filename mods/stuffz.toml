@@ -1,0 +1,14 @@
+name = "StuffZ"
+filename = "stuffz-2.2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3225/64/stuffz-2.2.5.jar"
+hash-format = "murmur2"
+hash = "3555617070"
+
+[update]
+[update.curseforge]
+file-id = 3225064
+project-id = 344454
+release-channel = "beta"

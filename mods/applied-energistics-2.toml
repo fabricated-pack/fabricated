@@ -1,0 +1,14 @@
+name = "Applied Energistics 2"
+filename = "appliedenergistics2-fabric-8.2.0-alpha.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3225/596/appliedenergistics2-fabric-8.2.0-alpha.3.jar"
+hash-format = "murmur2"
+hash = "4000565414"
+
+[update]
+[update.curseforge]
+file-id = 3225596
+project-id = 223794
+release-channel = "beta"

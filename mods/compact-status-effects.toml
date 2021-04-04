@@ -1,0 +1,14 @@
+name = "Compact Status Effects"
+filename = "CompactStatusEffects-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3228/289/CompactStatusEffects-1.3.0.jar"
+hash-format = "murmur2"
+hash = "637696063"
+
+[update]
+[update.curseforge]
+file-id = 3228289
+project-id = 398752
+release-channel = "beta"

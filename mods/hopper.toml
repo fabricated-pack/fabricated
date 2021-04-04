@@ -1,0 +1,14 @@
+name = "Better Hoppers (Hopper+) {FABRIC | FORGE}"
+filename = "better-hoppers-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3214/200/better-hoppers-2.2.0.jar"
+hash-format = "murmur2"
+hash = "4235716877"
+
+[update]
+[update.curseforge]
+file-id = 3214200
+project-id = 415164
+release-channel = "beta"

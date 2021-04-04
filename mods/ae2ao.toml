@@ -1,0 +1,14 @@
+name = "[Fabric] AE2 Additional Opportunity"
+filename = "AE2AO-6.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3204/287/AE2AO-6.2.1.jar"
+hash-format = "murmur2"
+hash = "3566544816"
+
+[update]
+[update.curseforge]
+file-id = 3204287
+project-id = 410278
+release-channel = "beta"

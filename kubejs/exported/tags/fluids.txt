@@ -1,0 +1,87 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 1, 2021 8:48:19 PM
+
+#c:oxygen
+- astromine:oxygen
+- astromine:oxygen_flowing
+
+#c:crude_oil
+- astromine:crude_oil
+- astromine:crude_oil_flowing
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- astromine:oxygen
+- astromine:oxygen_flowing
+- astromine:crude_oil
+- astromine:crude_oil_flowing
+- astromine:residual_fuel_oil
+- astromine:heavy_gas_oil
+- astromine:heavy_gas_oil_flowing
+- astromine:diesel
+- astromine:diesel_flowing
+- astromine:kerosene
+- astromine:kerosene_flowing
+- astromine:naphtha
+- astromine:naphtha_flowing
+- astromine:gasoline
+- astromine:gasoline_flowing
+- astromine:butane
+- astromine:butane_flowing
+
+#c:gasoline
+- astromine:gasoline
+- astromine:gasoline_flowing
+
+#c:kerosene_oxygen_fuel
+- astromine:kerosene_oxygen_fuel
+- astromine:kerosene_oxygen_fuel_flowing
+
+#c:residual_fuel_oil
+- astromine:residual_fuel_oil
+- astromine:residual_fuel_oil_flowing
+
+#minecraft:milk
+- fluidtank:vanilla_milk
+
+#astromine:water_breathable
+- #minecraft:water
+
+#astromine:lava_breathable
+- #minecraft:lava
+
+#c:diesel
+- astromine:diesel
+- astromine:diesel_flowing
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#c:kerosene
+- astromine:kerosene
+- astromine:kerosene_flowing
+
+#c:naphtha
+- astromine:naphtha
+- astromine:naphtha_flowing
+
+#astromine:normal_breathable
+- #c:oxygen
+
+#c:heavy_gas_oil
+- astromine:heavy_gas_oil
+- astromine:heavy_gas_oil_flowing
+
+#c:butane
+- astromine:butane
+- astromine:butane_flowing
+
+#c:hydrogen
+- astromine:hydrogen
+- astromine:hydrogen_flowing
+
+#appliedenergistics2:blacklisted/fluid_annihilation_plane
+
+#astromine:rocket_fuels
+- #c:kerosene_oxygen_fuel

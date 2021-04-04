@@ -1,0 +1,14 @@
+name = "Piglib"
+filename = "piglib-1.0.3+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3203/718/piglib-1.0.3+1.16.5.jar"
+hash-format = "murmur2"
+hash = "4118217184"
+
+[update]
+[update.curseforge]
+file-id = 3203718
+project-id = 410302
+release-channel = "beta"

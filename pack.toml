@@ -1,0 +1,19 @@
+name = "Fabricated"
+author = "GayCookie"
+version = "0.0.4"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "041e661709bff1aa8af1477cafd3ece555ade7c3570c6bbe8bffed276a1abd0e"
+
+[versions]
+fabric = "0.11.3"
+minecraft = "1.16.5"
+
+[export]
+[export.curseforge]
+disable-jumploader = false
+jumploader-forge-version = "36.1.4"
+jumploader-version-id = 3227191
+project-id = 0

@@ -1,0 +1,14 @@
+name = "Never Full"
+filename = "never-full-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3257/294/never-full-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1127854548"
+
+[update]
+[update.curseforge]
+file-id = 3257294
+project-id = 463580
+release-channel = "beta"

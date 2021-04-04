@@ -1,0 +1,14 @@
+name = "Tiered"
+filename = "tiered-1.2.2-beta-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3256/104/tiered-1.2.2-beta-1.16.4.jar"
+hash-format = "murmur2"
+hash = "1990206712"
+
+[update]
+[update.curseforge]
+file-id = 3256104
+project-id = 375972
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Death's Wish [Fabric]"
+filename = "DeathsWish-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3260/819/DeathsWish-1.4.0.jar"
+hash-format = "murmur2"
+hash = "4250631408"
+
+[update]
+[update.curseforge]
+file-id = 3260819
+project-id = 453778
+release-channel = "beta"

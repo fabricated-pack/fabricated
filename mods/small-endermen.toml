@@ -1,0 +1,14 @@
+name = "Small Endermen"
+filename = "smallendermen-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3181/161/smallendermen-1.1.1.jar"
+hash-format = "murmur2"
+hash = "3680546"
+
+[update]
+[update.curseforge]
+file-id = 3181161
+project-id = 412097
+release-channel = "beta"

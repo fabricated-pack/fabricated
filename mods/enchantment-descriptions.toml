@@ -1,0 +1,14 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-1.16.5-7.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3198/902/EnchantmentDescriptions-1.16.5-7.0.3.jar"
+hash-format = "murmur2"
+hash = "1615639436"
+
+[update]
+[update.curseforge]
+file-id = 3198902
+project-id = 250419
+release-channel = "beta"

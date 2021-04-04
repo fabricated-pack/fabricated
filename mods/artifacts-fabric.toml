@@ -1,0 +1,14 @@
+name = "Artifacts (Fabric)"
+filename = "artifacts-3.1.0+fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3252/347/artifacts-3.1.0+fabric.jar"
+hash-format = "murmur2"
+hash = "577472648"
+
+[update]
+[update.curseforge]
+file-id = 3252347
+project-id = 401236
+release-channel = "beta"

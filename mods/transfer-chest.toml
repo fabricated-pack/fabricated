@@ -1,0 +1,14 @@
+name = "Transfer Chest"
+filename = "transfer-chest-1.16-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3200/521/transfer-chest-1.16-1.1.4.jar"
+hash-format = "murmur2"
+hash = "2293965621"
+
+[update]
+[update.curseforge]
+file-id = 3200521
+project-id = 432830
+release-channel = "beta"

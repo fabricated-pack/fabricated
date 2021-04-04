@@ -1,0 +1,14 @@
+name = "Autofish"
+filename = "Autofish-0.9.2-fabric-mc1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3170/776/Autofish-0.9.2-fabric-mc1.16.4.jar"
+hash-format = "murmur2"
+hash = "2605301874"
+
+[update]
+[update.curseforge]
+file-id = 3170776
+project-id = 319473
+release-channel = "beta"

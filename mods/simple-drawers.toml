@@ -1,0 +1,14 @@
+name = "Simple Drawers"
+filename = "simpledrawers-1.8.0-1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3067/428/simpledrawers-1.8.0-1.16.3.jar"
+hash-format = "murmur2"
+hash = "3833958359"
+
+[update]
+[update.curseforge]
+file-id = 3067428
+project-id = 366379
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Economical Villager Trading"
+filename = "economical_villager_trading-1.2+MC1.16.4-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3247/285/economical_villager_trading-1.2+MC1.16.4-1.16.5.jar"
+hash-format = "murmur2"
+hash = "478744260"
+
+[update]
+[update.curseforge]
+file-id = 3247285
+project-id = 395573
+release-channel = "beta"

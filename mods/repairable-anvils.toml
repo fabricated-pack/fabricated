@@ -1,0 +1,14 @@
+name = "Repairable Anvils"
+filename = "repairable-anvils-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3029/36/repairable-anvils-0.0.2.jar"
+hash-format = "murmur2"
+hash = "3989196809"
+
+[update]
+[update.curseforge]
+file-id = 3029036
+project-id = 393742
+release-channel = "beta"

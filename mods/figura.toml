@@ -1,0 +1,14 @@
+name = "Figura"
+filename = "figura-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3257/279/figura-0.0.4.jar"
+hash-format = "murmur2"
+hash = "2608058878"
+
+[update]
+[update.curseforge]
+file-id = 3257279
+project-id = 451616
+release-channel = "beta"
