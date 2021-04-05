@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-discord-link.toml"
-hash = "7b8d91fe2a15aea033d0b99da4fc9f1f41dd34ee5dc71ac96ba42dea859c3fed"
+hash = "441a844db57420309b6eaa501b93edaf65d898f6e0dc2deafb52b5dc45efb729"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/flan.toml"
-hash = "61c99c054f1e9bca22fa9062f81488db7a0f9a84970fc532402373b6b260903e"
+hash = "9a0dbdc817a2f669cd396384af239d7856b2ed0709a020b51fb07309e3aad488"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemflexer.toml"
-hash = "db7e54756b5126ebab9a5e66155f75cc14a425cbaaa777b69d0064fcc1dbc293"
+hash = "e094764c24a2bd1abd54d30ead9b533ece02e3c2864ef2ed8ea7c6217b126998"
 metafile = true
 
 [[files]]
