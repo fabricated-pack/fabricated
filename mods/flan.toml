@@ -1,0 +1,14 @@
+name = "Flan"
+filename = "flan-1.16.2-1.2.4.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3261/845/flan-1.16.2-1.2.4.jar"
+hash-format = "murmur2"
+hash = "421076866"
+
+[update]
+[update.curseforge]
+file-id = 3261845
+project-id = 404578
+release-channel = "beta"
