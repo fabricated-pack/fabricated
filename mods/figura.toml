@@ -1,6 +1,6 @@
 name = "Figura"
 filename = "figura-0.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3257/279/figura-0.0.4.jar"

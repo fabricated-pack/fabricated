@@ -1,6 +1,6 @@
 name = "CraftPresence"
 filename = "CraftPresence-Fabric-1.16.5-Release-1.7.6.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3171/40/CraftPresence-Fabric-1.16.5-Release-1.7.6.jar"

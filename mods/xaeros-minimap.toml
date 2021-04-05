@@ -1,6 +1,6 @@
 name = "Xaero's Minimap"
 filename = "Xaeros_Minimap_21.4.5_Fabric_1.16.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3256/945/Xaeros_Minimap_21.4.5_Fabric_1.16.5.jar"

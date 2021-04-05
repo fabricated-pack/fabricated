@@ -1,6 +1,6 @@
 name = "Xaero's World Map"
 filename = "XaerosWorldMap_1.13.1_Fabric_1.16.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3249/709/XaerosWorldMap_1.13.1_Fabric_1.16.5.jar"
