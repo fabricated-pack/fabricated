@@ -5,10 +5,6 @@ file = "CHANGELOG.md"
 hash = "9fc0cdf5725152bbf5e17aedd273010ae08131dafe35e77a4c7aa03cb6e4ab7e"
 
 [[files]]
-file = "Fabricated-0.0.4.zip"
-hash = "7add8dc6519a7f86ff13ece6b09e44224635b46d490f65688625dd20c13ed98a"
-
-[[files]]
 file = "README.md"
 hash = "f194fdfd36e5e1f088af1d380a5ccbfd1520627f2c86806957fb7fc7e187fe8d"
 
