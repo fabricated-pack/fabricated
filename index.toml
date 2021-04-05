@@ -29,22 +29,6 @@ file = "config/xaerominimap.txt"
 hash = "18ef67c3ac458e9c23cb3fc38d3a1b2ac2b13381ca3d4d6a6d0491d8bb40402c"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "kubejs/client_scripts/script.js"
-hash = "8d6f3db48cc507f2dc6e23919e21837851738fc849cb83772b4186b03bef391d"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "77e3b7c17f442f06bcff810b5d22efa9cef0a317acfe26f13e287519cadb658c"
 
@@ -57,32 +41,8 @@ file = "kubejs/data/minecraft/loot_tables/entities/ender_dragon.json"
 hash = "25c24dc61716446c0f45a7ac7822a4c357be501090cc5a06fe9f87f42038a278"
 
 [[files]]
-file = "kubejs/exported/tags/blocks.txt"
-hash = "60be538f5a65f20ede3f7828a939107981e5da5a1a78e674e58ca2b3c774d30c"
-
-[[files]]
-file = "kubejs/exported/tags/entity_types.txt"
-hash = "a909c73a378c748ec94ce15a7edb52064dde43ae5f1214893ba2ce2d65fcc331"
-
-[[files]]
-file = "kubejs/exported/tags/fluids.txt"
-hash = "779b0fc3c9b59e2155363b684531fc29037a00964ea460e87a37318f45679b69"
-
-[[files]]
-file = "kubejs/exported/tags/functions.txt"
-hash = "84f4a2bda72a81bef7246fe7aad12cc0f85dad1d19b2449fd271eb0b87c6be3e"
-
-[[files]]
-file = "kubejs/exported/tags/items.txt"
-hash = "c20244b8bdc203617e569020f264eea161b8b2dc62c949190dea2b2b8b0510ca"
-
-[[files]]
 file = "kubejs/server_scripts/script.js"
 hash = "252eb3e6cf89696eb8fb1b28449d2afd037a01d0e35182fa11f4c2a9288a847f"
-
-[[files]]
-file = "kubejs/startup_scripts/script.js"
-hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
 [[files]]
 file = "mods/adorn.toml"
