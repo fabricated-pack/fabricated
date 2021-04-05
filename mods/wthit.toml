@@ -1,0 +1,14 @@
+name = "WTHIT"
+filename = "wthit-2.5.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3250/590/wthit-2.5.4-fabric.jar"
+hash-format = "murmur2"
+hash = "1225224501"
+
+[update]
+[update.curseforge]
+file-id = 3250590
+project-id = 440979
+release-channel = "beta"

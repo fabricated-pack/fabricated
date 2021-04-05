@@ -1,5 +1,18 @@
 ## Changelog
 
-### 0.0.4 (latest)
+### 0.0.5 (latest)
+#### Added
+- [What The Hell Is That?](https://www.curseforge.com/minecraft/mc-mods/wthit) (Client-Server Mod)
+- [Fabric-Discord link](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link) (Server Mod)
+- [Flan](https://www.curseforge.com/minecraft/mc-mods/flan) (Server Mod)
+- [ItemFlexer](https://www.curseforge.com/minecraft/mc-mods/itemflexer) (Server Mod)
+
+#### Removed
+- [Here's What You're Looking At](https://www.curseforge.com/minecraft/mc-mods/hwyla) (Client-Server Mod)
+
+#### Changed
+- Changed some mod sides to the correct sides.
+
+### 0.0.4
 #### Added
 - `Dragon Head` as drop on killing the `Ender Dragon`

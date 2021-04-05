@@ -295,11 +295,6 @@ hash = "d5f32ba237fbd33a190303c2b35352a269c7dedecc9155e8470e6e5a8e2feb80"
 metafile = true
 
 [[files]]
-file = "mods/hwyla.toml"
-hash = "e37316132d574a8472b50140adf0816b2f2b7cacf7f391ea6fe4b8be7cbe4b73"
-metafile = true
-
-[[files]]
 file = "mods/identity.toml"
 hash = "1bf525788d41b8b78fb6e60ea13e7a0f6c625ea140fe912676d7f6966cc50100"
 metafile = true
@@ -507,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/wall-jump-fabric.toml"
 hash = "03d6efaac5b8bb085f148168497364ab5f75190ac2ee86c86cfe3381b6942a70"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "51b4e678e4e736dfbf1d5b38580794b3e0fdcaebfc973ee6954b7a32d0cb1de2"
 metafile = true
 
 [[files]]
