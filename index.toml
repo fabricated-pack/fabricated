@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "bfea0d4ffa6bc8e7cfac68355dd689052f7f8deac44c978d663b476d0cea4a35"
+hash = "e20909b1f14ecf7b8981433af4d5fc142b5dc2e4bec3758d9f4434620fce4eb2"
 
 [[files]]
 file = "README.md"
@@ -182,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.toml"
 hash = "c775e9cfb96430601257bc5100b183033f22458985647b3eab4233a37f5fa4b9"
+metafile = true
+
+[[files]]
+file = "mods/creeper-spores.toml"
+hash = "4fd196dad54f6f9cf3d08ab84f9f605f1f1d261cb9523e42aa11f5858bef98ea"
 metafile = true
 
 [[files]]
@@ -417,11 +422,6 @@ metafile = true
 [[files]]
 file = "mods/repairable-anvils.toml"
 hash = "b1f84fef6222115c44103e9de18f8258c74ffa6b9e679b222c9d1f260395dd5b"
-metafile = true
-
-[[files]]
-file = "mods/reroll.toml"
-hash = "c16c217c53dabd2f7c595e4963d7aa18c8e5a3de3a63def25d2746e10644f45c"
 metafile = true
 
 [[files]]

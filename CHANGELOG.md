@@ -1,6 +1,13 @@
 ## Changelog
 
-### 0.0.5 (latest)
+### 0.0.6 (latest)
+#### Added
+- [Creeper Spores](https://www.curseforge.com/minecraft/mc-mods/creeper-spores) (Client-Server Mod)
+
+#### Removed
+- [Reroll](https://www.curseforge.com/minecraft/mc-mods/reroll) (Client-Server Mod)
+
+### 0.0.5
 #### Added
 - [What The Hell Is That?](https://www.curseforge.com/minecraft/mc-mods/wthit) (Client-Server Mod)
 - [Fabric-Discord link](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link) (Server Mod)
