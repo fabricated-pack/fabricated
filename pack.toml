@@ -1,11 +1,11 @@
 name = "Fabricated"
 author = "GayCookie"
-version = "0.0.6"
+version = "0.0.7"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c059ab2fea6862bf3858e56559973c69659427488888f0ee6e2dd318bb2c4855"
+hash = "0212688700c332c3619dc02dcb2a9cf1b08b2f5bfb82f6bda2554ace89e4596a"
 
 [versions]
 fabric = "0.11.3"

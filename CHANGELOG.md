@@ -1,6 +1,12 @@
 ## Changelog
 
-### 0.0.6 (latest)
+### 0.0.7 (latest)
+#### Added
+- [Glassential](https://www.curseforge.com/minecraft/mc-mods/glassential-fabric) (Client-Server Mod)
+- [RSWires](https://www.curseforge.com/minecraft/mc-mods/rswires) (Client-Server Mod)
+- [megane](https://www.curseforge.com/minecraft/mc-mods/megane) (Client-Server Mod)
+
+### 0.0.6
 #### Added
 - [Creeper Spores](https://www.curseforge.com/minecraft/mc-mods/creeper-spores) (Client-Server Mod)
 

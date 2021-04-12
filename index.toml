@@ -2,11 +2,159 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e20909b1f14ecf7b8981433af4d5fc142b5dc2e4bec3758d9f4434620fce4eb2"
+hash = "1a7d13ae7247d1d3409fe2e102ea68fa7de98b44b45232fb4a115f8fecdca0ff"
+
+[[files]]
+file = "Fabricated.wiki/.git/COMMIT_EDITMSG"
+hash = "d1f8c140e1ff918198a9461605fa0c015c7383f8068351efb42c4e68a6303b91"
+
+[[files]]
+file = "Fabricated.wiki/.git/HEAD"
+hash = "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+
+[[files]]
+file = "Fabricated.wiki/.git/config"
+hash = "02fc2f3eb58a78bfc584ef901ad36f40615e284d1f979757e6aa418bef23d5cc"
+
+[[files]]
+file = "Fabricated.wiki/.git/description"
+hash = "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/applypatch-msg.sample"
+hash = "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/commit-msg.sample"
+hash = "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/fsmonitor-watchman.sample"
+hash = "f3c0228d8e827f1c5260ac59fdd92c3d425c46e54711ef713c5a54ae0a4db2b4"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/post-update.sample"
+hash = "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/pre-applypatch.sample"
+hash = "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/pre-commit.sample"
+hash = "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/pre-merge-commit.sample"
+hash = "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/pre-push.sample"
+hash = "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/pre-rebase.sample"
+hash = "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/pre-receive.sample"
+hash = "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/prepare-commit-msg.sample"
+hash = "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/push-to-checkout.sample"
+hash = "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+
+[[files]]
+file = "Fabricated.wiki/.git/hooks/update.sample"
+hash = "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+
+[[files]]
+file = "Fabricated.wiki/.git/index"
+hash = "c881ced480edb1c19e1bfde113c6802347f438e1e278c243c654081b797f1865"
+
+[[files]]
+file = "Fabricated.wiki/.git/info/exclude"
+hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+
+[[files]]
+file = "Fabricated.wiki/.git/logs/HEAD"
+hash = "9c805f95d577711752baf15eadddf97fa5af7e50c9fbb8a95e65317ddf207baf"
+
+[[files]]
+file = "Fabricated.wiki/.git/logs/refs/heads/master"
+hash = "9c805f95d577711752baf15eadddf97fa5af7e50c9fbb8a95e65317ddf207baf"
+
+[[files]]
+file = "Fabricated.wiki/.git/logs/refs/remotes/origin/HEAD"
+hash = "cf7867f9bf0ca7be73fe231d2b14d1693b640028f10d63dea5f23de2f331ed5e"
+
+[[files]]
+file = "Fabricated.wiki/.git/logs/refs/remotes/origin/master"
+hash = "b2aec50cc6c6c326119c35c083c8f56ed16c00ae07ae9ca7064217815fe69753"
+
+[[files]]
+file = "Fabricated.wiki/.git/objects/2d/df1dc8225c6dcf76d689ac5553c4cf20661af3"
+hash = "fe8807844c80a636296c064b41436196fd7d713224bfbfe400515fb9d76c3a20"
+
+[[files]]
+file = "Fabricated.wiki/.git/objects/71/10a605e6aa48efaa6bc2c64c5b8f8ec22e636a"
+hash = "47625380303afbc2c46dc02d26cf42c09cb1be683703902655b264c8ac784726"
+
+[[files]]
+file = "Fabricated.wiki/.git/objects/8a/18d60ee305010b81b1d383650ebf86367b1caa"
+hash = "ba9c86b10cb8eb7cc24068932437fe1abee9b43baeaa67315095d123de2fb303"
+
+[[files]]
+file = "Fabricated.wiki/.git/objects/ad/7614caaa80e55e507be89ea997d30a022aba1f"
+hash = "e80974f54cb562e74bbae47607273128c7c271d581e321767a22a45285d81dc2"
+
+[[files]]
+file = "Fabricated.wiki/.git/objects/f5/610e15faac598522aacec69489b4ffa06fb77f"
+hash = "8bfa68cefe5d7ae4b1efa5f7bb83214b1e2a11d1d4d91a0ac52f64a19c79e5e9"
+
+[[files]]
+file = "Fabricated.wiki/.git/objects/fd/dd878ec2aaee93c0576ebbf97bfc531485cdf2"
+hash = "c59bb02337a86e3afa22cd1adc915d485907c195d6f95897c181f3b18ded7b4b"
+
+[[files]]
+file = "Fabricated.wiki/.git/objects/pack/pack-bb9911231d677d1e612ab454e77d6a1d420cfa5b.idx"
+hash = "a88e9de5c933bd8007eec1bd1bad4fd23f8939bc11897fc6f1527bca79af2e4d"
+
+[[files]]
+file = "Fabricated.wiki/.git/objects/pack/pack-bb9911231d677d1e612ab454e77d6a1d420cfa5b.pack"
+hash = "a18b7e81aaf95b6d4eadfc72b469a920d7a1d824324f9c7738cc94c8e5f2190f"
+
+[[files]]
+file = "Fabricated.wiki/.git/packed-refs"
+hash = "7b60b26e0508b4c8a45a1c5a6935bd9b5fb678bc46041cc62a715d11c850fac6"
+
+[[files]]
+file = "Fabricated.wiki/.git/refs/heads/master"
+hash = "4ec40b46a0cc3b932a033731d51e4ed75fd79c70eb629c8e6fdd9f868ab41a4c"
+
+[[files]]
+file = "Fabricated.wiki/.git/refs/remotes/origin/HEAD"
+hash = "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+
+[[files]]
+file = "Fabricated.wiki/.git/refs/remotes/origin/master"
+hash = "4ec40b46a0cc3b932a033731d51e4ed75fd79c70eb629c8e6fdd9f868ab41a4c"
+
+[[files]]
+file = "Fabricated.wiki/Build.md"
+hash = "410ccd4d2e8c212c3d1cc8cda03c61369e9699f3838e43dd855d7eb6739261ce"
+
+[[files]]
+file = "Fabricated.wiki/Home.md"
+hash = "0e8cc3639aecd0bb4802e04af28c1fc15e7fe223b16a80c3d6fbdcb752ec29ef"
 
 [[files]]
 file = "README.md"
-hash = "f194fdfd36e5e1f088af1d380a5ccbfd1520627f2c86806957fb7fc7e187fe8d"
+hash = "bb50fb4b47ab2962cf9b94eb8f8e399d43aa2177951396331313e07e62fc5ef4"
 
 [[files]]
 file = "config/autofish.config"
@@ -285,6 +433,11 @@ hash = "0a9acef9e190833ae45646088ea81a7f5b9e37bf14d62f5ed256bdb91a22b28a"
 metafile = true
 
 [[files]]
+file = "mods/glassential-fabric.toml"
+hash = "208deda3e57e2fb84a0e5e9d53b682e534fe4592c07b6c4c9db7396034247644"
+metafile = true
+
+[[files]]
 file = "mods/go-fish.toml"
 hash = "d8386830187d47129066b829961bb827476e2aae457cdcbe49b8566042e9615d"
 metafile = true
@@ -347,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/mcdw.toml"
 hash = "b547804af7fff284ef08be74d79078534da0061e639a2b913869878b74821d34"
+metafile = true
+
+[[files]]
+file = "mods/megane.toml"
+hash = "92bd32eb0c9b5d21063efd7c3e6d4f480983770d15d514ff05873dbef90d45ea"
 metafile = true
 
 [[files]]
@@ -437,6 +595,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.toml"
 hash = "fb37c83160b7b42abc998680881dcfa616338baba033832ad422bff20453f8de"
+metafile = true
+
+[[files]]
+file = "mods/rswires.toml"
+hash = "773d4dc970289fa7291b05d37b36a578a29f0f2b0fcf75ebd208b6362c6f2f4c"
 metafile = true
 
 [[files]]
