@@ -21,7 +21,7 @@ When you're ready to do a pull-request, make sure to read our ~~Contributing pag
 To download the latest release of the mod pack you can click [here](https://github.com/gaycookie/Fabricated/releases/latest).  
 Or look at the other versions [here](https://github.com/gaycookie/Fabricated/tags), if you want another version.
 
-[Discord]: (https://discord.gg/qUbJye86UN)
-[discussions]: (https://github.com/gaycookie/Fabricated/discussions)
-[documentation]: (https://github.com/gaycookie/Fabricated/wiki)
-[packwiz]: (https://github.com/comp500/packwiz)
+[Discord]: https://discord.gg/qUbJye86UN
+[discussions]: https://github.com/gaycookie/Fabricated/discussions
+[documentation]: https://github.com/gaycookie/Fabricated/wiki
+[packwiz]: https://github.com/comp500/packwiz
