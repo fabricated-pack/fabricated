@@ -3,3 +3,4 @@
 .gitignore
 Fabricated-*.zip
 Fabricated.wiki/**
+server-install.sh
