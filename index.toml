@@ -6,7 +6,7 @@ hash = "cb98b47f89069040953a7d7339514c91092259f50399631875990da9344d7458"
 
 [[files]]
 file = "README.md"
-hash = "5dfe6b7ce6b51eb6843dd8e1ce413d558aad584b4502b518981ad867ab20bf42"
+hash = "8bbdba116376d0fea16505a3bae09d8f0abaafbe3f77a1c2b41a4d24827f1a33"
 
 [[files]]
 file = "config/autofish.config"
