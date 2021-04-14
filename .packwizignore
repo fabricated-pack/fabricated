@@ -2,6 +2,7 @@
 .gitattributes
 .gitignore
 Fabricated-*.zip
+_layouts/**
 Fabricated.wiki/**
 server-install.sh
 _config.yml
