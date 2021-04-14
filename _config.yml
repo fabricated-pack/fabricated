@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
 description: Yet another tech related mod pack!
-show_downloads: true
+show_downloads: false
 github:
-  zip_url: https://github.com/gaycookie/Fabricated/releases/download/latest/Fabricated.zip
+  zip_url: https://github.com/gaycookie/Fabricated/releases/latest/download/Fabricated.zip
