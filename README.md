@@ -1,7 +1,11 @@
 [![Discord](https://img.shields.io/discord/817130660527079515?style=for-the-badge)](https://discord.gg/qUbJye86UN)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/GayCookie/Fabricated?style=for-the-badge)](https://github.com/gaycookie/Fabricated/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/GayCookie/Fabricated/total?style=for-the-badge)](https://github.com/gaycookie/Fabricated/releases/latest)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GayCookie/Fabricated?style=for-the-badge)](https://github.com/gaycookie/Fabricated/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/GayCookie/Fabricated?style=for-the-badge)](https://github.com/gaycookie/Fabricated/graphs/contributors)
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/GayCookie/Fabricated?style=for-the-badge)](https://github.com/gaycookie/Fabricated/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/GayCookie/Fabricated?style=for-the-badge)]((https://github.com/gaycookie/Fabricated/releases/latest))
+[![GitHub last commit](https://img.shields.io/github/last-commit/GayCookie/Fabricated?style=for-the-badge)](https://github.com/gaycookie/Fabricated/commit/main)
 
 # Fabricated
 Yet another tech related mod pack!
