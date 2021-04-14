@@ -1,10 +1,16 @@
+[![Discord](https://img.shields.io/discord/817130660527079515?style=for-the-badge)](https://discord.gg/qUbJye86UN)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/GayCookie/Fabricated?style=for-the-badge)](https://github.com/gaycookie/Fabricated/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/GayCookie/Fabricated/total?style=for-the-badge)](https://github.com/gaycookie/Fabricated/releases/latest)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GayCookie/Fabricated?style=for-the-badge)](https://github.com/gaycookie/Fabricated/issues)
+
 # Fabricated
 Yet another tech related mod pack!
 
 ## Technical
 **Minecraft version:** 1.16.5  
 **Fabric version:** 0.11.3  
-**Mod pack version:** 0.0.8
+**Mod pack version:** 0.0.8  
+**Tested on:** [MultiMC] & [CurseForge]
 
 ## [Documentation]
 **All information and questions can be found in the [documentation].**  
@@ -24,4 +30,6 @@ Or look at the other versions [here](https://github.com/gaycookie/Fabricated/tag
 [Discord]: https://discord.gg/qUbJye86UN
 [discussions]: https://github.com/gaycookie/Fabricated/discussions
 [documentation]: https://github.com/gaycookie/Fabricated/wiki
+[MultiMC]: https://multimc.org/
+[CurseForge]: https://curseforge.overwolf.com/
 [packwiz]: https://github.com/comp500/packwiz
