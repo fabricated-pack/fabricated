@@ -2,4 +2,4 @@
 .gitattributes
 .gitignore
 Fabricated-*.zip
-Fabricated.wiki
+Fabricated.wiki/**

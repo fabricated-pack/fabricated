@@ -1,6 +1,10 @@
 ## Changelog
 
-### 0.0.7 (latest)
+### 0.0.8 (latest)
+#### Changed
+- Updated `Mo' Structures` from version `1.1.0` to `1.1.1`
+
+### 0.0.7
 #### Added
 - [Glassential](https://www.curseforge.com/minecraft/mc-mods/glassential-fabric) (Client-Server Mod)
 - [RSWires](https://www.curseforge.com/minecraft/mc-mods/rswires) (Client-Server Mod)
