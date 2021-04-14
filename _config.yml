@@ -1,4 +1,4 @@
-theme: leap-day-custom
+theme: _layouts/leap-day-custom
 description: Yet another tech related mod pack!
 show_downloads: true
 github:
