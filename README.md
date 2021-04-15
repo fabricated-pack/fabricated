@@ -18,7 +18,7 @@ Yet another tech related mod pack!
 ## [Documentation]
 **All information and questions can be found in the [documentation].**  
 If you still have questions or you can not find information you need.  
-Feel free to join the our Discord or ask in our [discussions] section.
+Feel free to join the our [Discord] or ask in our [discussions] section.
 
 ## Contributing
 Contributions are amazing but can also be a pain.  
