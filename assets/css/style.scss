@@ -3,18 +3,41 @@
 
 @import "{{ site.theme }}";
 
+$text-color: #c5c5c5;
+
 body {
     background: #16213e;
+    color: $text-color;
+}
+
+strong {
+    color: $text-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: $text-color;
+}
+
+nav ul a {
+    color: $text-color;
+}
+
+#banner .downloads span {
+    color: #f3f3f3;
+}
+
+a {
+    color: #e94560;
 }
 
 section {
-    background: #1A1A2E;
+    background: #0f3460;
     border: 1px solid #2b2b42;
     box-shadow: none;
 }
 
 header {
-    background: #0f3460;
+    background: #1A1A2E;
 }
 
 #banner {
