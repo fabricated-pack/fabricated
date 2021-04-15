@@ -3,6 +3,7 @@
 .gitignore
 Fabricated-*.zip
 _layouts/**
+assets/**
 docs/**
 Fabricated.wiki/**
 server-install.sh
