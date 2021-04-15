@@ -3,6 +3,21 @@
 
 @import "{{ site.theme }}";
 
+body {
+    background: #16213e;
+}
+
+section {
+    background: #1A1A2E;
+    border: 1px solid #2b2b42;
+    box-shadow: 0px 1px 2px rgb(40 48 80 / 9%), inset 0px 0px 2px 2px rgb(40 48 80 / 50%), inset 0 0 5px 5px rgb(40 48 80 / 40%);
+}
+
 header {
     background: #0f3460;
+}
+
+#banner {
+    background: #e94560;
+    border: 1px solid #e72242;
 }
