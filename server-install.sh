@@ -3,7 +3,7 @@
 MINECRAFT="https://launcher.mojang.com/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar"
 FABRIC="https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.3/fabric-installer-0.7.3.jar"
 PACKWIZ="https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar"
-PACKFILE="https://gaycookie.github.io/Fabricated/pack.toml"
+PACKFILE="https://fabricated-pack.github.io/fabricated/pack.toml"
 
 MINECRAFT_FILE="./server.jar"
 FABRIC_FILE="./fabric-installer-0.7.3.jar"
